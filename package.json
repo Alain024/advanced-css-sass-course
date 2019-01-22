@@ -1,0 +1,22 @@
+{
+  "name": "advanced-css-sass-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alain024/advanced-css-sass-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alain024/advanced-css-sass-course/issues"
+  },
+  "homepage": "https://github.com/Alain024/advanced-css-sass-course#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
